@@ -1,0 +1,2 @@
+distance,total_weight,total_volume,l_lat,l_lon,u_lat,u_lon,year,month,dow,doy,month_sin,month_cos,dow_sin,dow_cos,doy_sin,doy_cos,l_city,u_city,l_region,u_region,body_group,weight_category,volume_category,price_type
+1200,20,82,55.75,37.62,59.93,30.34,2026,11,4,324,-0.5,0.866,-0.434,-0.901,-0.649,0.760,Москва,Санкт-Петербург,Москва,Санкт-Петербург,tent,FTL,FTL,1
